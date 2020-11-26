@@ -24,8 +24,8 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "ogestor/hookable": "^5.5",
-        "illuminate/database": "^5.5"
+        "ogestor/hookable": "^6.0",
+        "illuminate/database": "^6.0"
     },
     "require-dev": {
         "phpunit/phpunit": "4.5.0",
